@@ -66,5 +66,5 @@ jobs:
         with:
           app-name: 'sivunov-task4'
           slot-name: 'Production'
-          package: release.zip
+          package: .
           
